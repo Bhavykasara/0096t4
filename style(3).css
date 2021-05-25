@@ -1,0 +1,77 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4PN-UaNWzXKvnY5PO9w9_lmDOIsc0uN8ig&usqp=CAU");
+}
+
+#head_h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Reggae One', cursive;
+}
+
+#head_img {
+    width: 10%;
+}
+
+#main {
+    border: solid 10px white;
+    margin-left: 16%;
+    margin-right: 15%;
+    opacity: 0.93;
+    backdrop-filter: blur(5px);
+}
+
+#welcome {
+    color:white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+}
+
+#roomname {
+    color:white;
+    font-family: 'Fugaz One', cursive;
+    font-size: 40px;
+}
+
+#info {
+    color: white;
+    font-size: 60px;
+    font-family: 'Tangerine', cursive;
+}
+
+#inf {
+    color: white;
+    font-size: 60px;
+}
+
+hr {
+    color: white;
+}
+
+#sending {
+    border: 3px white solid;
+    margin-top: 10%;
+}
+
+#send {
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+#message {
+    width: 40%;
+}
+
+#URL {
+    width: 40%;
+}
+
+#chat {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.mySection {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
